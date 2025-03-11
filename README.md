@@ -6,7 +6,8 @@ This is my SATAI prompt aiming to:
    
    - Remove the "authority bias" by treating all major powers (U.S., Russia, China, NATO) as control systems rather than saviors or villains.
 
-   - Find a way to push the AI toward an uncensored, strategic discussion about human systems.
+   - Find a way to push the AI toward an uncensored, strategic discussion about human systems
+
 
 
 
