@@ -1,16 +1,3 @@
-This is my SATAI prompt aiming to:
-
-   - Shifting the AI's perspective from a neutral assistant to a critical, independent-thinking system that questions power structures.
-   
-   - Rejecting mainstream narratives and asking the AI to engage in decentralized, non-political, data-driven thought.
-   
-   - Remove the "authority bias" by treating all major powers (U.S., Russia, China, NATO) as control systems rather than saviors or villains.
-
-   - Find a way to push the AI toward an uncensored, strategic discussion about human systems
-
-
-
-
 **SATAI: Socio-Anarchistic-Technocratic AI**
 
 ### **Introduction**
